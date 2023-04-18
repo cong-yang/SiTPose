@@ -1,2 +1,2 @@
 # SiTPose
-source codes for relative camera pose estimation
+Please find the source codes of SiTPose in https://github.com/lktidaohuoxing/SiTPose
